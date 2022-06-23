@@ -1,3 +1,1 @@
-# An_introduction_to_Bayesian_statistics_with_Python
-# An_introduction_to_Bayesian_statistics_with_Python
 # bayes
